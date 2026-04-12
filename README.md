@@ -424,7 +424,7 @@ footer{border-top:1px solid var(--border);padding:22px 0;margin-top:6px;}
   <div class="container">
     <div class="footer-inner">
       <div class="footer-copy">Crypto Fear &amp; Greed Index — Live AI-Powered Tracker. Updated daily.</div>
-      <div class="footer-source">Data: <a href="https://alternative.me/crypto/fear-and-greed-index/" target="_blank" rel="noopener">alternative.me</a>, <a href="https://cryptowealthnet.com/" target="_blank" rel="noopener">Cryptowealthnet</a> &amp; <a href="https://api.coingecko.com" target="_blank" rel="noopener">CoinGecko</a></div>
+      <div class="footer-source">Data: <a href="https://alternative.me/crypto/fear-and-greed-index/" target="_blank" rel="noopener">alternative.me</a>, Powered By <a href="https://cryptowealthnet.com/" target="_blank" rel="noopener noreferrer">Cryptowealthnet</a> &amp; <a href="https://api.coingecko.com" target="_blank" rel="noopener">CoinGecko</a></div>
     </div>
   </div>
 </footer>
