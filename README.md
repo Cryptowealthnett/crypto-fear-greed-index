@@ -4,7 +4,7 @@ Free Embeddable Crypto Fear and Greed Index widget for crypto news sites.
 ## How to Embed
 To display this widget on your website, simply copy and paste the following HTML code into your webpage where you want the widget to appear:
 
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
