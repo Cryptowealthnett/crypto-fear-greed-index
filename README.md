@@ -1,5 +1,7 @@
 # crypto-fear-greed-index
-Free Embeddable Crypto Fear and Greed Index widget for crypto news sites.
+Free Embeddable Crypto Fear and Greed Index widget for crypto news websites, blogs, and portals.
+
+🔗 **[Live Demo & Interactive Crypto Charts](https://cryptowealthnet.com/crypto-fear-and-greed-index/)**
 
 ## How to Embed
 To display this widget on your website, simply copy and paste the following HTML code into your webpage where you want the widget to appear:
